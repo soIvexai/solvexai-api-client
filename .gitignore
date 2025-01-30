@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.egg-info/
+
+# JavaScript / Node.js
+node_modules/
+npm-debug.log
+yarn.lock
+dist/
+
+# Go
+bin/
+pkg/
+*.exe
+*.out
+
+# Rust
+target/
+Cargo.lock
+
+# General
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.swp
