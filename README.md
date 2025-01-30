@@ -13,26 +13,3 @@ This repository provides client libraries for interacting with the Solvex AI API
 ### Python
 ```bash
 pip install solvexai
-
-**### JavaScript (Node.js)**
-```bash
-npm install solvexai
-
-**### Go**
-```bash
-go get github.com/soIvexai/solvexai-go
-
-**### Rust**
-```bash
-cargo add solvexai
-
-**## LICENSE**
-
----
-
-### 📄 **2. `.gitignore`** (Ignore unnecessary files)
-```plaintext
-__pycache__/
-node_modules/
-target/
-.env
